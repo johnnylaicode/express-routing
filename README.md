@@ -11,8 +11,8 @@ This repository is an example Express.js (Express) application to demonstrate Ex
 2. Start a terminal (e.g., Git Bash) on your local machine.
 
 3.	Go into the "express-routing" folder, enter the command: `npm init` 
-   
-   (It creates a package.json file containing some boilerplate information.)
+
+   * (It creates a package.json file containing some boilerplate information.)
 
 4.	Install Express by entering the command: `npm install express` 
 
