@@ -12,11 +12,11 @@ This repository is an example Express.js (Express) application to demonstrate Ex
 
 3.	Go into the "express-routing" folder, enter the command: `npm init` 
 
-   * (It creates a package.json file containing some boilerplate information.)
+      * It creates a package.json file containing some boilerplate information.
 
 4.	Install Express by entering the command: `npm install express` 
 
-   (It installs Express and adds the Express version number to package.json file in the "dependencies" section.)
+      * It installs Express and adds the Express version number to package.json file in the "dependencies" section.
 
 5.	Start the Express application by entering the command: `node express-routing.js` 
 
