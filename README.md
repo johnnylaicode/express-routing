@@ -22,7 +22,7 @@ This repository is an example Express.js (Express) application to demonstrate Ex
 
 6. The Express application is now accessible at the address: `http://localhost:3000`
 
-### Express Routing: 
+### Express Routing
 
 The application sets up a route on `/hello/world`
 
@@ -30,7 +30,7 @@ To test the route, at a web browser, enter the URL:`http://localhost:3000/hello/
 
 You should see `Hi there!` displayed on the web browser.
 
-### Express Parameterized Routing: 
+### Express Parameterized Routing
 
 The application sets up a parameterized route on `/hello/world/:name`
 
@@ -38,7 +38,7 @@ To test the parameterized route, at a web browser, enter the URL: `http://localh
 
 You should see `Hi Mary!` displayed on the web browser.
 
-### Express Routing Error Handling: 
+### Express Routing Error Handling
 
 If routes are not matched, the application handles the 404 status and returns a status message.
 
