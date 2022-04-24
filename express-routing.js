@@ -1,5 +1,5 @@
 /*==================================================
-This file is used to demonstrate Express routing features.  
+This file is used to demonstrate Express routing features in the server-side (back-end) Node.js environment.  
 ================================================== */
 // Include (import) Express module
 const express = require('express');
