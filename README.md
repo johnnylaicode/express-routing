@@ -3,7 +3,7 @@
 This repository is an example Express.js (Express) application to demonstrate Express routing features in the server-side (back-end) Node.js environment.
 
 ### Prerequisite
-- Node.js is already installed on your local machine. 
+Node.js is already installed on your local machine. 
 
 ### Use the following steps to set up Express and run the application on your local machine
 1.	Download the GitHub repository ZIP file to your local machine and unzip it.
