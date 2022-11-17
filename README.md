@@ -15,6 +15,7 @@ Node.js is already installed on your local machine.
 
 4.	Install Express by entering the command: `npm install express` 
       - It installs Express and adds the Express version number to package.json file in the "dependencies" section.
+      - Note: During the installation, when prompted for input, you can press Enter to accept the default value or input no value.
 
 5.	Start the Express application by entering the command: `node express-routing.js` 
 
